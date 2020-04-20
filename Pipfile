@@ -13,7 +13,7 @@ numpy = "*"
 tensorflow-datasets = "*"
 tensorflow-hub = "*"
 tensorflow-addons = "*"
-tensorflow = "==2.0.0"
+tensorflow = "==2.0.1"
 seaborn = "*"
 scipy = "*"
 
