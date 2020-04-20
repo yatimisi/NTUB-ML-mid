@@ -35,16 +35,16 @@ Use four of the five personality traits to infer whether you are a cheerful pers
 5. Normalization
 6. Establish training data in Numpy array format
 7. Create Model
-  1. Initialising the ANN
-  2. Adding the input layer and the first hidden layer
-  3. Compiling the ANN
-  4. Set callback function
-  5. Fit
+    1. Initialising the ANN
+    2. Adding the input layer and the first hidden layer
+    3. Compiling the ANN
+    4. Set callback function
+    5. Fit
 8. Verify the effectiveness
 9. Results of training
-  1. Percentage Error
-  2. acc curve diagram
-  3. loss curve diagram
+    1. Percentage Error
+    2. acc curve diagram
+    3. loss curve diagram
 
 ## Research Conclusion
 
